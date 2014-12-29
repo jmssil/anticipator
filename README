@@ -1,0 +1,10 @@
+Anticipator: a simulation framework for Virtuoso (OSS-based netlister)
+
+This was meant to be a complete front-end (simulation) framework for
+Virtuoso, but is just an OSS-based netlister (as of version 0.4).
+
+It works by automatically creating the "hspice" views from the
+"hspiceD" views, so that the cells can be netlisted with OSS.
+
+This netlister can be used as a cheap replacement for Virtuoso Analog
+Design Environment netlister.

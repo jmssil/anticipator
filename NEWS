@@ -1,0 +1,25 @@
+2014-12-29  João M. S. Silva  <joao.m.santos.silva@gmail.com>
+
+	* Anticipator (v0.4): published in GitHub
+
+2013-03-06  João M. S. Silva  <joao.m.santos.silva@gmail.com>
+
+	* Anticipator (v0.3):
+		- corrected README
+		- overwrite mode now verifies if cell exists before removing it
+		- corrected diodes' model
+        	- corrected .subckt/instance name mismatch
+		- corrected re-netlisting
+        	- increased hnlMaxNameLength
+		- output directory is now $VAR/<cell>/<simulator>/<view>/netlist
+
+
+2012-06-21  João M. S. Silva  <joao.m.santos.silva@gmail.com>
+
+	* Anticipator (v0.2): replaced procedure "parseExpr" with
+	"abHandleHspiceMathExpr" from Andrew Beckett
+
+
+2012-06-14  João M. S. Silva  <joao.m.santos.silva@gmail.com>
+
+	* Anticipator (v0.1): OSS-based netlister, hierarchical and flat

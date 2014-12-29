@@ -1,0 +1,15 @@
+Instructions:
+
+  1. set environment variable ANTICIPATOR with tool's path
+
+  2. load "anticipator.il" in your .cdsinit file, e.g.:
+  load(strcat(getShellEnvVar("ANTICIPATOR") "/src/anticipator.il"))
+
+  3. start Virtuoso
+
+  4. type "anticipator": the Anticipator menu should appear
+
+  5. run Anticipator Setup on the libraries which need "hspice" views
+  to be created
+
+  6. run Anticipator

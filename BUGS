@@ -1,0 +1,6 @@
+Known bugs:
+
+  1. in .subckt resistor parameters, e.g. w='pPar("segW")'
+  l='pPar("segL")'
+
+  2. in bus names, e.g. test<4:0> and <*2>test

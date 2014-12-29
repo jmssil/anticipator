@@ -1,0 +1,8 @@
+version 0.5:
+
+  - bug corrections and small enhancements
+
+version 1.0:
+
+  - add front-end flow steps (analyzes, models, include files,
+    options, parameters, etc.)
